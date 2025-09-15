@@ -1,5 +1,1 @@
-[
-  "Units_Consumed",
-  "Fan_Hours",
-  "AC_Hours"
-]
+["Fan", "Refrigerator", "AirConditioner", "Television", "Monitor", "MotorPump", "MonthlyHours", "TariffRate"]
