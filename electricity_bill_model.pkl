@@ -1,0 +1,4 @@
+import joblib
+
+# suppose unga trained model
+joblib.dump(model, "electricity_bill_model.pkl")
